@@ -125,3 +125,4 @@ TIME_ZONE = 'Asia/Tehran'
 
 LOGIN_URL = 'account/login'
 LOGIN_REDIRECT_URL = '/tarnsactionslist'
+LOGOUT_REDIRECT_URL = '/'
